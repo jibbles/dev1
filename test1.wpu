@@ -4,6 +4,9 @@
 # Wing IDE project file : User-specific branch                   #
 ##################################################################
 [user attributes]
+debug.err-values = {None: {}}
+debug.var-col-widths = [0.39913544668587897,
+                        0.600864553314121]
 guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                             'windows': [{'name': 'MZqGYhxJxnLxMEsBmSbAy4Um6F'\
         '85dKIK',
@@ -619,7 +622,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                            'index': 27,
                            'top': 0}},
          1418964969.03],
-        [loc('unknown:untitled-1.py'),
+        [loc('unknown:<untitled> #1'),
          {'attrib-starts': [],
           'first-line': 0,
           'folded-linenos': [],
@@ -637,7 +640,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
         'history-pos': 1,
         'index': 27,
         'top': 0}})],
-        'has-focus': True,
+        'has-focus': False,
         'locked': False},
         [loc('../../../../../Program Files (x86)/Wing IDE 5.0/resources/doc/en/TOC.idx')]),
                                'open_files': [u'../../../../../Program Files (x86)/Wing IDE 5.0/resources/doc/en/TOC.idx']},
@@ -652,8 +655,12 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                  'tab_location': 'left',
                  'user_data': {}},
         'window-alloc': (0,
-                         0,
+                         -1,
                          1900,
                          1001)}]}
-proj.pyexec = {None: ('custom',
+proj.build-cmd = {None: ('default',
+                         None)}
+proj.env-vars = {None: ('default',
+                        [u''])}
+proj.pyexec = {None: ('default',
                       u'c:\\Users\\Scott\\Documents\\GitHub\\dev1\\test1.exe')}
